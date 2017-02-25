@@ -1,4 +1,4 @@
 # hello-world
 Hello World!
-This is devautor, saying: "Beginning is uncomfortable!"
+This is devautor, feeling: "Beginning is uncomfortable!"
 
