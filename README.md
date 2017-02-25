@@ -1,2 +1,4 @@
 # hello-world
-Beginning is uncomfortable!
+Hello World!
+This is devautor, feeling: "Beginning is uncomfortable!"
+
